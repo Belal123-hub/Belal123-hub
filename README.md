@@ -33,6 +33,7 @@
    <div style="display: inline_block" align="center">
      <a href = "https://t.me/b0muthanna" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
      <a href = "https://belal717121832@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+     <a href = "https://vk.com/bmuthanna" target="_blank"><img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" target="_blank"></a>
    </div>
 </p>
 <p align="center">📫<i> Click on the images to get personal/professional contact.</i></p>
