@@ -3,7 +3,7 @@
 </a>
 <!-- TITLE -->
 <div style="display: inline_block" align="center">
-   <h1 align="center"><samp>-<samp>Hallo!, I'm Belal Muthanna</samp> -</samp></h1>
+   <h1 align="center"><samp>-<samp>Hallo! 🖐, I'm Belal Muthanna</samp> -</samp></h1>
 </div>
 
 <!-- ABOUT ME -->
