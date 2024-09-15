@@ -4,7 +4,7 @@
 <!-- TITLE -->
 <div style="display: inline_block" align="center">
    <h1 align="center"><samp>-<samp>Hello! 🖐, I'm Belal Muthanna</samp> -</samp></h1>
-  <h1 align="center"><samp>-<samp>Android developer</samp> -</samp></h1>
+  <h1 align="center"><samp>-<samp>Android developer</samp>-</samp></h1>
 </div>
 
 <!-- ABOUT ME -->
